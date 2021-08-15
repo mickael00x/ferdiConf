@@ -1,0 +1,103 @@
+*, *::before, *::after {
+    border: 0px;
+    transition: all .3s;
+}
+
+
+input, textarea {
+    color: #e0e0e0 !important;
+}
+
+/* =========== MAKING INSTAGRAM BEAUTIFUL ===========*/
+
+
+/* instagram top navbar */
+._lz6s {
+    background-color: rgb(31, 31, 31) !important;
+}
+._8-yf5 {
+    fill: rgb(194, 194, 194) !important;
+}
+/* instagram logo */
+.oJZym {
+    display: none;
+}
+
+
+.oYYFH, .oNO81, .DPiy6 {
+    background-color: #1D1D1D !important;
+    color: #FFFFFF !important;
+}
+
+/* voice messages sound background */
+.IhCmn {
+    background-color: #7266F0 !important;
+}
+.Y7SkM {
+    background-image: linear-gradient(#7266F0, #b700ff) !important;
+}
+
+/* left section */
+.N9abW, .DPiy6 {
+    background-color: rgb(31, 31, 31) !important;
+}
+
+/* nameplate */
+.S-mcP, .uueGX {
+    background-color: rgb(17, 17, 17) !important;
+}
+
+/* no strange borders around every div */
+.oNO81, .S-mcP, .pV7Qt {
+    border: none !important;
+}
+
+/* getting rid of scroll bars */
+.N9abW::-webkit-scrollbar, .frMpI::-webkit-scrollbar {
+    display: none !important;
+}
+.N9abW, .frMpI {
+    scrollbar-width: none !important;
+}
+.N9abW {
+    padding: 0;
+    margin:0;
+}
+
+/* like div */
+._31sg7 {
+    background-color: rgb(54, 54, 54) !important;
+    border: 0;
+}
+
+/* person name + text inside conv */
+
+.KV-D4 {
+    color: #FFFFFF !important;
+}
+
+/* your message...  */
+.X3a-9 {
+    border: 1px solid #7266F0;
+}
+
+/* my response div */
+._6FEQj {
+    background-color: rgb(31, 31, 31);
+}
+
+/* person response div */
+.CMoMH {
+    border: 1px solid #3C3C3C;
+}
+
+/* left section response div */
+
+.QOqBd {
+    background-color: rgb(82, 82, 82) !important;
+}
+
+/* left section response div */
+.-qQT3:hover {
+    background-color: rgb(82, 82, 82) !important;
+}
